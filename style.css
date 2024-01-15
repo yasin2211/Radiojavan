@@ -46,7 +46,7 @@
     border: 0;
     border-left:1px solid rgb(175, 175, 175);
     border-radius: 15px;
-    background-image: url('./pic/sr.svg');
+    background-image: url('sr.svg');
     background-position: center;
     background-size: cover;
 }
@@ -239,19 +239,19 @@
 }
 
 .pic1{
-    background-image: url('./pic/ps1.png');
+    background-image: url('ps1.png');
 }
 
 .pic2{
-    background-image: url('./pic/ps2.png');
+    background-image: url('ps2.png');
 }
 
 .pic3{
-    background-image: url('./pic/ps3.png');
+    background-image: url('ps3.png');
 }
 
 .pic4{
-    background-image: url('./pic/ps4.png');
+    background-image: url('ps4.png');
 }
 
 .fa-headphones{
@@ -273,7 +273,7 @@
     align-self: start;
     border: 0;
     background-color: rgb(197, 0, 0);
-    background-image: url('./pic/play-1003-svgrepo-com.svg');
+    background-image: url('play-1003-svgrepo-com.svg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: 12px; 
@@ -291,7 +291,7 @@
     border: 0;
     border-radius: 100%;background-color: rgba(255, 255, 255, 0.096);
     filter: blur(500%);
-    background-image: url('./pic/star-svgrepo-com.svg');
+    background-image: url('star-svgrepo-com.svg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: 20px; 
@@ -309,7 +309,7 @@
     border: 0;
     border-radius: 100%;background-color: rgba(255, 255, 255, 0.329);
     filter: blur(500%);
-    background-image: url('./pic/three-dots-line-svgrepo-com.svg');
+    background-image: url('three-dots-line-svgrepo-com.svg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: 20px; 
@@ -334,7 +334,7 @@
     display: grid;
     grid-template-columns: repeat(20,1fr);
     grid-template-rows: repeat(10,1fr);
-    background-image: url('./pic/feu.png');
+    background-image: url('feu.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -354,7 +354,7 @@
     align-self: start;
     border: 0;
     background-color: rgb(197, 0, 0);
-    background-image: url('./pic/play-1003-svgrepo-com.svg');
+    background-image: url('play-1003-svgrepo-com.svg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: 12px; 
@@ -373,7 +373,7 @@
     border: 0;
     border-radius: 100%;background-color: rgba(255, 255, 255, 0.329);
     filter: blur(500%);
-    background-image: url('./pic/heart-svgrepo-com.svg');
+    background-image: url('heart-svgrepo-com.svg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: 20px; 
@@ -392,7 +392,7 @@
     border: 0;
     border-radius: 100%;background-color: rgba(255, 255, 255, 0.329);
     filter: blur(500%);
-    background-image: url('./pic/three-dots-line-svgrepo-com.svg');
+    background-image: url('three-dots-line-svgrepo-com.svg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: 15px; 
@@ -402,7 +402,7 @@
 
 
 .feutared-image:hover{
-    background-image: linear-gradient(to bottom , rgba(255, 255, 255, 0) , rgba(0, 0, 0, 0.801) 70%), url('./pic/feu.png');
+    background-image: linear-gradient(to bottom , rgba(255, 255, 255, 0) , rgba(0, 0, 0, 0.801) 70%), url('feu.png');
     opacity: 0.9;
     cursor: pointer;
     transition: 0.3s;
@@ -476,7 +476,7 @@
     border-radius: 100%;
     grid-row: 1/4;
     width: 90%; height: 90%;
-    background-image: url('./pic/story.jpg');
+    background-image: url('story.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -572,19 +572,19 @@
 
 
 .ep1{
-    background-image: url('./pic/ep1.png');
+    background-image: url('ep1.png');
 }
 
 .ep2{
-    background-image: url('./pic/ep2.png');
+    background-image: url('ep2.png');
 }
 
 .ep3{
-    background-image: url('./pic/ep3.png');
+    background-image: url('ep3.png');
 }
 
 .ep4{
-    background-image: url('./pic/ep4.png');
+    background-image: url('ep4.png');
 }
 
 /* new music */
@@ -633,19 +633,19 @@
 }
 
 .np1{
-    background-image: url('./pic/np1.png');
+    background-image: url('np1.png');
 }
 
 .np2{
-    background-image: url('./pic/np2.png');
+    background-image: url('np2.png');
 }
 
 .np3{
-    background-image: url('./pic/np3.png');
+    background-image: url('np3.png');
 }
 
 .np4{
-    background-image: url('./pic/np4.png');
+    background-image: url('np4.png');
 }
 
 .newmusic-sec:hover{
@@ -737,19 +737,19 @@
 }
 
 .dpm1{
-    background-image: url('./pic/dpm1.png');
+    background-image: url('dpm1.png');
 }
 
 .dpm2{
-    background-image: url('./pic/dpm2.png');
+    background-image: url('dpm2.png');
 }
 
 .dpm3{
-    background-image: url('./pic/dpm3.png');
+    background-image: url('dpm3.png');
 }
 
 .dpm4{
-    background-image: url('./pic/dpm4.png');
+    background-image: url('dpm4.png');
 }
 
 .littl{
@@ -900,7 +900,7 @@
 }
 
 .left-pic{
-    background-image: url('./pic/main-pic.png');
+    background-image: url('main-pic.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -1039,7 +1039,7 @@
         opacity: 1;
         grid-column: 1/2;
         width: 60%;
-        background-image: url('./pic/three-line-horizontal-svgrepo-com.svg');
+        background-image: url('three-line-horizontal-svgrepo-com.svg');
        background-position: center;
        background-repeat: no-repeat;
        background-size: contain;
