@@ -1010,7 +1010,7 @@
     }
 }
 
-@media only screen and (max-width:768px) {
+@media only screen and (max-width:1024px) {
     .left-bar{
         width: 0 !important;
         visibility: hidden;
