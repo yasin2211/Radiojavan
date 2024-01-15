@@ -48,7 +48,7 @@
     border-radius: 15px;
     background-image: url('sr.svg');
     background-position: center;
-    background-size: cover;
+    background-size: contain;
 }
 
 .search-radio-conatain{
@@ -213,7 +213,7 @@
     grid-row: 1/5;
     grid-column: 1/6;
     background-position: center;
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     border-radius: 5px;
     transition: 0.3s;
@@ -337,7 +337,7 @@
     background-image: url('feu.png');
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     height: 80vh;
     border-radius: 5px;
     z-index: 100;
@@ -479,7 +479,7 @@
     background-image: url('story.jpg');
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
 }
 
 /* exclusive */
@@ -502,7 +502,7 @@
     grid-row: 1/5;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     border-radius: 5px;
     transition: 0.3s;
 }
@@ -606,7 +606,7 @@
     grid-row: 1/5;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     transition: 0.3s;
     border-radius: 5px;
 }
@@ -693,7 +693,7 @@
     grid-row: 1/5;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     transition: 0.3s;
     border-radius: 5px;
 }
